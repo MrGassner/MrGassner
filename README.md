@@ -1,6 +1,6 @@
 ### Hi there, I'm MrGassner 🤘 
 
-
+A junior developer passionate about problem solving. One of my all time favorite game is Sudoku 🔢. Working my way as an autodidate through coding languages. My goal is to automate every single task I can as Douglas Adams once said "I am rarely happier than when spending an entire day programming my computer to perform automatically a task that it would otherwise take me a good ten seconds to do by hand."
 
 ## Reach me at:
 
@@ -22,7 +22,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## My GitHUb status:
+## My GitHub status:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrGassner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
