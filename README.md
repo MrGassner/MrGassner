@@ -23,16 +23,12 @@ A junior developer passionate about problem solving. One of my all time favorite
     <a href="https://pt.wikipedia.org/wiki/Django_(framework_web)" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </div>
-    
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+    
 ## My GitHub status:
 
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrGassner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGassner&layout=compact)](https://github.com/MrGassner)
+
+</div>
