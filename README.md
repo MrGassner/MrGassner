@@ -7,8 +7,8 @@
 <div>
   <a href="https://www.linkedin.com/in/mrgassner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-          %230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://instagram.com/mrgassner?igshid=YmMyMTA2M2Y=" target="_blank"><img     src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
-  <a href="discordapp.com/users/1028640844166746184" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/mrgassner/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
+  <a href="https://discord.com/channels/@me/1028640844166746184" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
+  <a href="mailto:gustavo.gassner@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
  </div>
 
 
