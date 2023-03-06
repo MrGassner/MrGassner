@@ -1,7 +1,14 @@
 ### Hi there, I'm MrGassner 🤘 
 
 
-## This Week I Spent My time On:
+## My languages
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
+
+
+
+
 
 ## My GitHUb status:
 
