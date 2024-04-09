@@ -1,7 +1,5 @@
 ### Hi there, I'm MrGassner 🤘 
 
-A junior developer passionate about problem solving. One of my all time favorite game is Sudoku 🔢. Working my way as an autodidate through coding languages. My goal is to automate every single task I can as Douglas Adams once said "I am rarely happier than when spending an entire day programming my computer to perform automatically a task that it would otherwise take me a good ten seconds to do by hand."
-
 ## Reach me at:
 
 <div>
